@@ -1,0 +1,53 @@
+header{
+    border: 1px solid #000;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+}
+.left{
+    padding: 20px;
+    width: 20%;
+    height: 80vh;
+    border-right: 1px solid #000;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.wrapper{
+    display: flex;
+}
+th{
+    width: 250px;
+}
+.table-student{
+    display: none;
+}
+.table-group{
+    display: none;
+}
+.table-homework{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+.btn-before{
+    position: relative;
+}
+.btn-before::before{
+    content: '';
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: -30px;
+    border-top: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-left: 15px solid seagreen;
+    border-bottom: 10px solid transparent;
+}

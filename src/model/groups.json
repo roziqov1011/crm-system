@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "groupName": "n10",
+        "courseName": "backend",
+        "teacherName": "baxtiyor"
+    },
+    {
+        "id": 2,
+        "groupName": "n20",
+        "courseName": "frontend",
+        "teacherName": "shuhrat"
+    },
+    {
+        "id": 3,
+        "groupName": "n30",
+        "courseName": "SMM",
+        "teacherName": "zafar"
+    }
+]

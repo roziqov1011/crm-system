@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "username": "rozivoy",
+        "password": "902060690",
+        "role": "admin",
+        "phoneNumber": "+99846872642",
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "username": "baxtiyor",
+        "role": "teacher",
+        "password": "901001010",
+        "course": "Backend",
+        "phoneNumber": "901001010"
+    },
+    {
+        "id": 3,
+        "username": "shuhrat",
+        "role": "teacher",
+        "password": "901001010",
+        "course": "frontend",
+        "phoneNumber": "901001010"
+    },
+    {
+        "id": 4,
+        "username": "abdulloh",
+        "role": "student",
+        "password": "991001010",
+        "course": "backend",
+        "phoneNumber": "991001010",
+        "teacherName": "baxtiyor",
+        "groupName": "n10"
+    },
+    {
+        "id": 5,
+        "username": "abdushukur",
+        "role": "student",
+        "password": "992002020",
+        "course": "frontend",
+        "phoneNumber": "992002020",
+        "teacherName": "shuhrat",
+        "groupName": "n20"
+    },
+    {
+        "id": 6,
+        "username": "zafar",
+        "role": "teacher",
+        "password": "903003030",
+        "course": "SMM",
+        "phoneNumber": "903003030"
+    },
+    {
+        "id": 7,
+        "username": "abubakir",
+        "role": "student",
+        "password": "994004040",
+        "course": "SMM",
+        "phoneNumber": "994004040",
+        "teacherName": "zafar",
+        "groupName": "n30"
+    }
+]

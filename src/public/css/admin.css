@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    border-bottom: 1px solid #000;
+}
+
+button{
+    width: 200px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+}
+main{
+    display: flex;
+}
+.left{
+    padding: 20px;
+    width: 20%;
+    height: 80vh;
+    border-right: 1px solid #000;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+}
+.table-teacher{
+    display: none;
+}
+.table-student{
+    display: none;
+}
+.table-group{
+    display: none;
+}
+.table-cours{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+th{
+    width: 250px;
+}
+.disabled{
+    display: none !important;
+}
+
+
+.btn-before{
+    position: relative;
+}
+.btn-before::before{
+    content: '';
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: -30px;
+    border-top: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-left: 15px solid seagreen;
+    border-bottom: 10px solid transparent;
+}

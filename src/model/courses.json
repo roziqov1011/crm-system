@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "coursName": "backend",
+        "teacherName": "baxtiyor"
+    },
+    {
+        "id": 2,
+        "coursName": "frontend",
+        "teacherName": "shuhrat"
+    },
+    {
+        "id": 3,
+        "coursName": "SMM",
+        "teacherName": "zafar"
+    }
+]

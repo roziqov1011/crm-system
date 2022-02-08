@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "react App",
+        "izoh": "chat yashab kelish",
+        "groupName": "n3",
+        "teacherName": "zafar"
+    },
+    {
+        "id": 2,
+        "name": "HTML",
+        "izoh": "chat yashab kelish",
+        "groupName": "n70",
+        "teacherName": "muhammadsodiq"
+    },
+    {
+        "id": 3,
+        "name": "CSS",
+        "izoh": "chat yashab kelish",
+        "groupName": "n70",
+        "teacherName": "muhammadsodiq"
+    },
+    {
+        "id": 4,
+        "name": "srm tizim qilish",
+        "izoh": "oquv markazlari uchun srm",
+        "groupName": "n3",
+        "teacherName": "zafar"
+    },
+    {
+        "id": 5,
+        "name": "srm tizim qilish",
+        "izoh": "nnaskjkkal sbcijsdbkcja jbduoskh dsjbcusdbocs",
+        "groupName": "n70",
+        "teacherName": "zafar"
+    },
+    {
+        "id": 6,
+        "name": " sdkjfds",
+        "izoh": "md asndkasnodnasdaskndoasn",
+        "groupName": "n70",
+        "teacherName": "zafar"
+    },
+    {
+        "id": 7,
+        "name": "srm tizim qilish",
+        "izoh": "oquv markazlar uchu n tayorlang",
+        "groupName": "n10",
+        "teacherName": "baxtiyor"
+    }
+]
