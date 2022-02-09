@@ -60,5 +60,13 @@
         "phoneNumber": "994004040",
         "teacherName": "zafar",
         "groupName": "n30"
+    },
+    {
+        "id": 8,
+        "username": "usmon",
+        "role": "teacher",
+        "password": "907007070",
+        "course": "SMM",
+        "phoneNumber": "907007070"
     }
 ]
